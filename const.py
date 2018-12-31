@@ -1,7 +1,7 @@
 
 
-token = "525664759:AAHGincScdSoIUUKunwed0YuP3px4T0rwfc"
-admins = [211439710]
+token = ""
+admins = []
 
 
 about = '<b>Что такое Kontora?</b> \n'\
